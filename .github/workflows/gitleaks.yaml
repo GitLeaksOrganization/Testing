@@ -1,4 +1,4 @@
-name: Secret Value found!!!
+name: Secret Value found!!!Good!!
 on:
   push:
   public:
